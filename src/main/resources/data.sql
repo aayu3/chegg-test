@@ -1,4 +1,4 @@
-INSERT INTO users(name) VALUES('Steve Jobs');
-INSERT INTO users(name) VALUES('Richard Feynman');
-INSERT INTO users(name) VALUES('Three');
+INSERT INTO user(name) VALUES('Steve Jobs');
+INSERT INTO user(name) VALUES('Richard Feynman');
+INSERT INTO user(name) VALUES('Three');
 COMMIT;
